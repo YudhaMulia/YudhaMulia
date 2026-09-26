@@ -20,7 +20,6 @@ Saya adalah pengembang perangkat lunak yang berfokus pada pembangunan aplikasi w
 - **DaisyUI**
 - **PHP** ⭐⭐⭐⭐⭐
 
-Oppa, saya bikin kontennya sebagai draf yang bisa Anda estimasi / kelengkapi sesuai keahlian nyata Anda.
 
 ---
 
@@ -108,20 +107,12 @@ Sebuah aplikasi fullstack yang memenuhi spesifikasi CRUD mahasiswa dengan head, 
 
 Jika Anda ingin berdiskusi tentang proyek, kolaborasi, atau sekadar menyapa, hubungi saya melalui:
 
-- **Email:** [Anda bisa isi email di sini]
-- **LinkedIn:** [Anda bisa isi link LinkedIn Anda]
-- **Personal Website:** [Anda bisa isi link website portofolio Anda]
-- **Portfolio:** [Anda bisa isi link portofolio lain yang Anda punya]
+- **Email:** yudhamulia.id@gmail.com
+- **LinkedIn:** 
+- **Personal Website:** 
+- **Portfolio:** 
 
 ---
-
-## 🐳 Statistik Penggunaan GitHub
-
-*(Statistik ini otomatis update oleh GitHub)*
-- **Repository:** 5+ (Anda bisa beri tahu berapa repository aktif Anda, atau biarkan default)
-- **Followers:** 0+ (Anda bisa beri tahu, atau biarkan default)
-- **Following:** 0+ (Anda bisa beri tahu, atau biarkan default)
-- **Total Stars Received:** 0+ (Anda bisa beri tahu, atau biarkan default)
 
 ---
 
